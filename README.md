@@ -1,5 +1,4 @@
 # UBC-DBC-NWB
-Scripts for converting raw data acquired as well as analyzed data to an NWB format.
+The jupyter notebook in this project allows saving data (raw and processed) collected from optical physiology experiments to a standardized NWB format; the notebook takes you through a step by step process on how to do so.
 
-These python scripts provide code and steps for converting data into an NWB file format.
-NWB files formed from analyzing tiff movies can also be uploaded onto python and its relevant metadata can be added to the existing file.
+The assumption is that prior to running this notebook, you can an NWB file from running Suite2p with a .tif movie. You can then use this script to add relevant metadata about your recordings and analysis to the same NWB file.
