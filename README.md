@@ -1,5 +1,5 @@
 # UBC-DBC-NWB
-The following script is meant to demonstrate how to augment metadata to a Neurodata Without Borders (https://www.nwb.org) file format (a more standardized way of storing raw and processed neuroscience data). Executing this script will allow you to add metadata to an nwb file that has been generated with a data analysis/visualization tool.
+The script, NWBMetadataScript.ipynb, is meant to demonstrate how to augment metadata to a Neurodata Without Borders (https://www.nwb.org) file format (a more standardized way of storing raw and processed neuroscience data). Executing this script will allow you to add metadata to an nwb file that has been generated with a data analysis/visualization tool.
 
 You can use the following script assuming that you have done the steps below:
 <br>
